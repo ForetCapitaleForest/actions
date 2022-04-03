@@ -1,2 +1,2 @@
-# justfoodprojects
-Tracking all projects happening at the Just Food Farm location
+# actions
+Tracking all active FCF projects 
