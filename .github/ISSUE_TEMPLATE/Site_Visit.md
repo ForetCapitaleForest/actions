@@ -1,7 +1,7 @@
 ---
 Name: Site Visit
 About: Lists needed materials and tasks to perform when visiting Parc Rapids-DesChênes or Rue Scott & Graham sites, per the NCC contract
-Title: Site Visit
+Title: 'Site Visit'
 Assignees: 'Martin Nesbitt'
 
 ---
